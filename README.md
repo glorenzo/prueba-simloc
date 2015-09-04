@@ -4,7 +4,7 @@ Esta prueba consiste en un pequeño ejercicio consistente en un programa al que 
 
 Dependiendo del resultado de esta prueba, puedes ser o no seleccionado para realizar una entrevista en la sede de nuestra empresa. En ambos casos contactaremos contigo y te informaremos. Si eres seleccionado, acordaremos fecha y hora para realizar la entrevista en la semana del día 7.
 
-El plazo máximo para entregar el resultado de la prueba es el lunes 7 de agosto a las 20:00 horas. Más adelante en este texto verás como realizar y entregar la prueba.
+El plazo máximo para entregar el resultado de la prueba es el lunes 7 de septiembre a las 20:00 horas. Más adelante en este texto verás como realizar y entregar la prueba.
 
 Estimo que el tiempo de realización de la prueba es de unas 2 horas.
 
@@ -104,7 +104,7 @@ Si tienes alguna duda, puedes consultarme en cualquier momento por email: [gabri
 
 ## Entrega de la solución
 
-Recuerda que el plazo máximo es hasta el lunes 7 de agosto a las 20:00 horas.
+Recuerda que el plazo máximo es hasta el lunes 7 de septiembre a las 20:00 horas.
 
 Si no te da tiempo a resolver el ejercicio por completo antes de que finalice el plazo, envíame igualmente lo que tengas, aunque esté incompleto.
 
