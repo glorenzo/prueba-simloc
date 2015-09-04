@@ -1,0 +1,48 @@
+{
+    "ace": {
+        "@guessTabSize": "true",
+        "@newLineMode": "unix",
+        "@tabSize": "4",
+        "@useSoftTabs": "true"
+    },
+    "build": {
+        "@builder": "Builder",
+        "@path": "/.c9/builders",
+        "@saveall": true
+    },
+    "find.nak": {
+        "@searchLimit": 100
+    },
+    "general": {
+        "@stripws": false
+    },
+    "language": {
+        "@eslintrc": "true",
+        "@instanceHighlight": "true",
+        "@semi": "true",
+        "@undeclaredVars": "true",
+        "@unusedFunctionArgs": "false",
+        "@warnLevel": "info"
+    },
+    "run": {
+        "@path": "/.c9/runners",
+        "@runner": "My Runner",
+        "configs": {
+            "@inited": "true",
+            "json()": {
+                "prueba": {
+                    "command": ".c9/runners/My\\ Runner.run",
+                    "debug": true,
+                    "default": true,
+                    "name": "prueba",
+                    "runner": "My Runner"
+                }
+            }
+        }
+    },
+    "share": {
+        "@app": false,
+        "@preview": false,
+        "@useOwnerSettings": false
+    }
+}

@@ -1,0 +1,9 @@
+// Create a custom Cloud9 runner - similar to the Sublime build system
+// For more information see https://docs.c9.io/custom_runners.html
+{
+    "cmd" : ["$project_path/prueba"],
+    "info" : "Started $project_name",
+    "env" : {},
+    //"selector" : "source.ext",
+    "working_dir": "$project_path"
+}
